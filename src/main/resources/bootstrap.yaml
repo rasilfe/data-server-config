@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: data-server-config
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,prometheus
+        exclude: autoconfig,beans,configprops,dump,env,metrics,mappings,shutdown,trace
+  endpoint:
+    metrics:
+      enabled: true
