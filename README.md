@@ -2,7 +2,7 @@
 Data Server Config is an app template with the most popular frameworks(SPRING), designed and built with security in mind. (If you are curious about what makes an Spring Cloud Config, please check out [this page](https://github.com/spring-cloud/spring-cloud-config/blob/main/README.adoc)).
 
 ## How to get started
-To get started, clone the repository by clicking "CLONE" button, or through the command line (`git clone https://github.com/rasilfe/server-config.git`).
+To get started, clone the repository by clicking "CLONE" button, or through the command line (`git clone https://github.com/rasilfe/data-server-config.git`).
 
 # Prerequisites
 ## Security
